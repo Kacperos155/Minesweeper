@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="GUI" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAABAgAAEAACQAIABBAAAAAAAIBoQAAAI4I=</HashCode>
+      <FileName>Saper.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Settings" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAgACAwACBhAgAAgIAAAAAAAAAIAgACgAAACEAkIgA=</HashCode>
+      <FileName>Saper.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button_Shape" Collapsed="true">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAwAAAAAAAAEAACAAAAAAABAAAIMAAA=</HashCode>
+      <FileName>Buttons.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Binary_Converter" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACEAAAwAAACAAAAAIAAAAABAAKAAAAABEBAAIIAFAA=</HashCode>
+      <FileName>Binary Converter.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Config" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAABAAoAAQQAQAIAACAAACAAAAAAICAAAAAAIAAA=</HashCode>
+      <FileName>Saper.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Field_Shape" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgIAAAwAAAAAAAAAAAAAAAAIAAAgAAIIAAA=</HashCode>
+      <FileName>Saper.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vertex_Shape" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABABcAAgggAEAIACIAAAAAAAAAgAAAAgAIIAEA=</HashCode>
+      <FileName>Buttons.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Window_Mode" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAQAgAAACAAAAAAABAAAAAAAEAAAAAAAgA=</HashCode>
+      <FileName>Saper.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Communication" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAkAiAAACAAAABAAAAAAAQMAEQA=</HashCode>
+      <FileName>Saper.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Field" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAAAAAAQCAAAAACKBAAAAAABAAAIAIIBgAAAAwAA=</HashCode>
+      <FileName>Saper.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button_Graphic" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAAEAAAAgACAAAAAABgIAAAAAAIgAA=</HashCode>
+      <FileName>Buttons.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button_Base" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgggAAAAACAACIAAAAAAAAAAAgAAIAAA=</HashCode>
+      <FileName>Buttons.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button_Text" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAAAAAAAgAAEAAAAAACAAAAAAAAAAACAAAIABA=</HashCode>
+      <FileName>Buttons.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Minesweeper_Map" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAEAAABgACCAAgAAAAAAgAAAQDAAAAAAABAAABYAgoA=</HashCode>
+      <FileName>Saper.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Difficulty_Level" Collapsed="true">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAQQAAACAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Saper.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
